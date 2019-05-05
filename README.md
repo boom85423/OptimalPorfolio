@@ -1,8 +1,8 @@
 # Optimization in portfolio
 
 ### Introduction
-Do not put eggs in the same basket is the truth in invest.
-But how to choose between risk and profit is an important issue for investors.
+Do not put eggs in the same basket is the truth in invest.<br>
+How to choose between risk and profit is an important issue for investors.
 
 ### Problem
 * dimension: number of stock
