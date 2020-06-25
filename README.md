@@ -10,6 +10,7 @@ How to choose between risk and profit is an important issue for investors.
 * target: find portfolio weight such that mininize the risk
 
 ### Implement
+$E(x)$
 * expected return: ![](https://i.imgur.com/vB9RAh8.png)
 * loss function: ![](https://i.imgur.com/qww1DCY.png)
 * gradient of weight: ![](https://i.imgur.com/vLBjiXM.png)
